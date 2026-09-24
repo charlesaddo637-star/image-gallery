@@ -1,11 +1,11 @@
-# 📸 Image Gallery Project
+# Image Gallery Project
 
 An interactive image gallery built with **HTML, CSS, and JavaScript**.  
 This project allows users to filter images by category (Nature, Animals, Cities, Cars, Food) and view them in a responsive lightbox with **Next/Previous navigation**.
 
 ---
 
-## 🚀 Features
+##  Features
 - **Category Filters**: Show only images from a selected category or view all at once.
 - **Responsive Grid Layout**: Images are displayed in a flexible grid that adapts to screen size.
 - **Hover Effects**: Smooth zoom-in animation when hovering over images.
@@ -17,12 +17,10 @@ This project allows users to filter images by category (Nature, Animals, Cities,
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **HTML5** for structure
 - **CSS3** for styling (grid layout, transitions, lightbox overlay)
 - **JavaScript (ES6)** for interactivity (filtering, event handling, lightbox navigation)
 
 ---
-
-## 📂 Project Structure
 
